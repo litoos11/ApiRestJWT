@@ -1,0 +1,12 @@
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\bin\Debug\net6.0\Reportes.Entity.deps.json
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\bin\Debug\net6.0\Reportes.Entity.dll
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\bin\Debug\net6.0\Reportes.Entity.pdb
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\obj\Debug\net6.0\Reportes.Entity.csproj.AssemblyReference.cache
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\obj\Debug\net6.0\Reportes.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\obj\Debug\net6.0\Reportes.Entity.AssemblyInfoInputs.cache
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\obj\Debug\net6.0\Reportes.Entity.AssemblyInfo.cs
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\obj\Debug\net6.0\Reportes.Entity.csproj.CoreCompileInputs.cache
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\obj\Debug\net6.0\Reportes.Entity.dll
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\obj\Debug\net6.0\refint\Reportes.Entity.dll
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\obj\Debug\net6.0\Reportes.Entity.pdb
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.Entity\obj\Debug\net6.0\ref\Reportes.Entity.dll

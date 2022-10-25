@@ -1,0 +1,15 @@
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\bin\Debug\net6.0\Reportes.DAO.deps.json
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\bin\Debug\net6.0\Reportes.DAO.dll
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\bin\Debug\net6.0\Reportes.DAO.pdb
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\bin\Debug\net6.0\Reportes.Entity.dll
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\bin\Debug\net6.0\Reportes.Entity.pdb
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\obj\Debug\net6.0\Reportes.DAO.csproj.AssemblyReference.cache
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\obj\Debug\net6.0\Reportes.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\obj\Debug\net6.0\Reportes.DAO.AssemblyInfoInputs.cache
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\obj\Debug\net6.0\Reportes.DAO.AssemblyInfo.cs
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\obj\Debug\net6.0\Reportes.DAO.csproj.CoreCompileInputs.cache
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\obj\Debug\net6.0\Reportes.DAO.csproj.CopyComplete
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\obj\Debug\net6.0\Reportes.DAO.dll
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\obj\Debug\net6.0\refint\Reportes.DAO.dll
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\obj\Debug\net6.0\Reportes.DAO.pdb
+C:\AOrtiz\Projects\Test\ApiReportes\Reportes.DAO\obj\Debug\net6.0\ref\Reportes.DAO.dll
